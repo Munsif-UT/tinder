@@ -1,2 +1,2 @@
-# tinder-clone-remotebase-interview
+# tinder
 Created with CodeSandbox
